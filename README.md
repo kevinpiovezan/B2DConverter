@@ -20,9 +20,10 @@
 
 
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d923fe6e-3ed9-4eda-a17e-192dabdce942/deploy-status)](https://app.netlify.com/sites/b2dconverterkcp/deploys)
 <br>
 You are welcome to test it on this link:
+https://b2dconverterkcp.netlify.app/
 
 ## Technologies used on this project:
 - [HTML](https://html.com)
